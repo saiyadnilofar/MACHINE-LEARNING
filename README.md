@@ -63,7 +63,7 @@ MACHINE-LEARNING/
 | Student 2 | Data Cleaning & EDA | *[Name]* |
 | Student 3 | Feature Engineering | *[Name]* |
 | Student 4 | Modeling | *[Name]* |
-| Student 5 | Evaluation & Presentation | Rishi Nallagondla |
+| Student 5 | Evaluation & Presentation | Saketh Rishi Nallagondla |
 
 ## Results
 
