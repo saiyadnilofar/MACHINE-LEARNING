@@ -61,7 +61,7 @@ MACHINE-LEARNING/
 |---|---|---|
 | Student 1 | Data Collection | *[Name]* |
 | Student 2 | Data Cleaning & EDA | NILOFARBANU SAIYAD|
-| Student 3 | Feature Engineering | *[Name]* |
+| Student 3 | Feature Engineering | Jaweria Aijaz |
 | Student 4 | Modeling | Aiswarya Suresh |
 | Student 5 | Evaluation & Presentation | Saketh Rishi Nallagondla |
 
